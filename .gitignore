@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# project related files
+build/
+dist/
+temo/
+*.mkv
+*.docx
+*.specs
+
